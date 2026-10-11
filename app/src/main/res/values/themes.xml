@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.FocusTimer" parent="Theme.MaterialComponents.Light" />
+</resources>

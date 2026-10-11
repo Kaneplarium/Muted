@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Hourglass Frame -->
+    <path
+        android:fillColor="@color/icon_foreground_orange"
+        android:pathData="M32,28h44v6h-44zM32,74h44v6h-44z" />
+    <!-- Hourglass Body -->
+    <path
+        android:fillColor="@color/icon_foreground_orange"
+        android:pathData="M36,34c0,12 10,18 18,20c8,-2 18,-8 18,-20zM36,74c0,-12 10,-18 18,-20c8,2 18,8 18,20z" />
+</vector>
